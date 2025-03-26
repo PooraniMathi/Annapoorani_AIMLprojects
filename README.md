@@ -1,4 +1,4 @@
-##Power BI report for Super Store Dataset:
+### Power BI report for Super Store Dataset:
 ![image](https://github.com/user-attachments/assets/ef019141-ec2d-4fcf-8d98-f4e5a39df267)
 
 I have utilized the **Superstore dataset** to develop a comprehensive **Power BI report**, designed to provide deep insights into sales performance, profitability, and business trends. This report consists of four distinct pages: **Overview, Segment, Region, and Product**. Each page is structured with different visualizations and analytical components to effectively interpret and present key aspects of the dataset.  
